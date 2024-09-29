@@ -1,2 +1,2 @@
 # Messina Programming
-## This is the repository for the Programming course of Messina university (Data Analysis)
+## This is a repository for the Programming course of Messina university (Data Analysis)
